@@ -259,10 +259,5 @@
       "path": "/distratos",
       "table": "distratos",
       "primary_key": "referencia"
-    },
-    {
-      "path": "/processos",
-      "table": "processos",
-      "primary_key": "referencia"
     }
   ]
