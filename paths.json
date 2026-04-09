@@ -175,12 +175,6 @@
       "primary_key": "referencia"
     },
     {
-      "path": "/simulacoes",
-      "table": "simulacoes",
-      "primary_key": "referencia"
-    }
-  ,
-    {
       "path": "/unidades",
       "table": "unidades",
       "primary_key": "referencia"
