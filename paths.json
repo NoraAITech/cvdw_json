@@ -1,15 +1,5 @@
 [
     {
-      "path": "/leads/ganhos",
-      "table": "leads_ganhos",
-      "primary_key": "referencia"
-    },
-    {
-      "path": "/leads/historico/situacoes",
-      "table": "leads_historico_situacoes",
-      "primary_key": "referencia"
-    },
-    {
       "path": "/leads/infos",
       "table": "leads_infos",
       "primary_key": "referencia"
