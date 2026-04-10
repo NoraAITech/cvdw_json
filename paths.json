@@ -1,10 +1,5 @@
 [
     {
-      "path": "/leads/infos",
-      "table": "leads_infos",
-      "primary_key": "referencia"
-    },
-    {
       "path": "/leads/interacoes",
       "table": "leads_interacoes",
       "primary_key": "referencia"
