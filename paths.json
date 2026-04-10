@@ -1,37 +1,5 @@
 [
     {
-      "path": "/corretores",
-      "table": "corretores",
-      "primary_key": "referencia"
-    },
-    {
-      "path": "/distribuicao/leads",
-      "table": "distribuicao_dos_leads",
-      "primary_key": "referencia"
-    },
-    {
-      "path": "/imobiliarias",
-      "table": "imobiliarias",
-      "primary_key": "referencia"
-    },
-    {
-      "path": "/leads",
-      "table": "leads",
-      "primary_key": "referencia"
-    }
-  ,
-    {
-      "path": "/leads/conversoes",
-      "table": "leads_conversoes",
-      "primary_key": "referencia"
-    },
-    {
-      "path": "/leads/corretores",
-      "table": "leads_corretores",
-      "primary_key": "referencia"
-    }
-  ,
-    {
       "path": "/leads/ganhos",
       "table": "leads_ganhos",
       "primary_key": "referencia"
