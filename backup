@@ -1,0 +1,257 @@
+[
+    {
+      "path": "/corretores",
+      "table": "corretores",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/distribuicao/leads",
+      "table": "distribuicao_dos_leads",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/imobiliarias",
+      "table": "imobiliarias",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads",
+      "table": "leads",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/conversoes",
+      "table": "leads_conversoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/corretores",
+      "table": "leads_corretores",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/ganhos",
+      "table": "leads_ganhos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/historico/situacoes",
+      "table": "leads_historico_situacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/infos",
+      "table": "leads_infos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/interacoes",
+      "table": "leads_interacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/momentos",
+      "table": "leads_momentos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/perdas",
+      "table": "leads_perdas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/tarefas",
+      "table": "leads_tarefas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/visitas",
+      "table": "leads_visitas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/leads/workflow/tempo",
+      "table": "leads_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/precadastro/historico/situacoes",
+      "table": "precadastro_historico_situacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/precadastro/workflow/tempo",
+      "table": "precadastro_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/precadastros",
+      "table": "precadastros",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/repasses",
+      "table": "repasses",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/repasses/historico/situacoes",
+      "table": "repasses_historico_situacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/repasses/workflow/tempo",
+      "table": "repasses_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas",
+      "table": "reservas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/associados",
+      "table": "reservas_associados",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/campos-adicionais",
+      "table": "reservas_campos_adicionais",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/comissoes/programacao",
+      "table": "reservas_comissoes_programacao",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/comissoes",
+      "table": "reservas_comissoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/condicoes",
+      "table": "reservas_condicoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/contratos",
+      "table": "reservas_contratos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/coordenador",
+      "table": "reservas_coordenador",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/historico/situacoes",
+      "table": "reservas_historico_situacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/historico",
+      "table": "reservas_historico",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/registros/flags",
+      "table": "reservas_registros_flags",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/sienge",
+      "table": "reservas_sienge",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/reservas/workflow/tempo",
+      "table": "reservas_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/unidades",
+      "table": "unidades",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/unidades/precos",
+      "table": "unidades_precos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/unidades/situacao",
+      "table": "unidades_situacao",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/vendas",
+      "table": "vendas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos",
+      "table": "atendimentos",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/workflow/tempo",
+      "table": "atendimentos_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/interacoes",
+      "table": "atendimentos_interacoes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/respostas",
+      "table": "atendimentos_respostas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/tarefas",
+      "table": "atendimentos_tarefas",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/times",
+      "table": "atendimentos_times",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/atendimentos/times/integrantes",
+      "table": "atendimentos_times_integrantes",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/assistencias",
+      "table": "assistencias",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/assistencias/workflow/tempo",
+      "table": "assistencias_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/assistencias/itens",
+      "table": "assistencias_itens",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/assistencias/itens/workflow/tempo",
+      "table": "assistencias_itens_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/assistencias/visitas/workflow/tempo",
+      "table": "assistencias_visitas_workflow_tempo",
+      "primary_key": "referencia"
+    },
+    {
+      "path": "/distratos",
+      "table": "distratos",
+      "primary_key": "referencia"
+    }
+  ]
