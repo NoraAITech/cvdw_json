@@ -1,5 +1,10 @@
 [
     {
+      "path": "/agendamentos/vistorias",
+      "table": "agendamentos_vistorias",
+      "primary_key": "referencia"
+    },
+    {
       "path": "/corretores",
       "table": "corretores",
       "primary_key": "referencia"
