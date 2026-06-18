@@ -1,5 +1,10 @@
 [
     {
+      "path": "/pessoas",
+      "table": "pessoas",
+      "primary_key": "referencia"
+    },
+    {
       "path": "/agendamentos/vistorias",
       "table": "agendamentos_vistorias",
       "primary_key": "referencia"
