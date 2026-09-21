@@ -15,6 +15,11 @@
       "primary_key": "referencia"
     },
     {
+      "path": "/comissoes",
+      "table": "comissoes",
+      "primary_key": "referencia"
+    },
+    {
       "path": "/distribuicao/leads",
       "table": "distribuicao_dos_leads",
       "primary_key": "referencia"
